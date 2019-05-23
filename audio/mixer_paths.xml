@@ -299,23 +299,23 @@
     <ctl name="SpkrRight VISENSE Switch" value="0" />
     <ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
     <ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
-    <ctl name="SpkrLeft WSA PA Gain" value="G_0_DB" />
-    <ctl name="SpkrRight WSA PA Gain" value="G_0_DB" />
+    <ctl name="SpkrLeft WSA PA Gain" value="G_4_DB" />
+    <ctl name="SpkrRight WSA PA Gain" value="G_4_DB" />
     <ctl name="SpkrLeft WSA PA Mute" value="1" />
     <ctl name="SpkrRight WSA PA Mute" value="1" />
     <ctl name="EAR SPKR PA Gain" value="G_DEFAULT" />
 
     <!-- Volume controls -->
-    <ctl name="HPHL Volume" value="9" />
-    <ctl name="HPHR Volume" value="9" />
-    <ctl name="EAR PA Gain" value="POS_1P5_DB" />
+    <ctl name="HPHL Volume" value="19" />
+    <ctl name="HPHR Volume" value="19" />
+    <ctl name="EAR PA Gain" value="POS_1P8_DB" />
     <ctl name="EAR PA Boost" value="ENABLE" />
 
-    <ctl name="RX1 Digital Volume" value="90" />
-    <ctl name="RX2 Digital Volume" value="90" />
-    <ctl name="RX3 Digital Volume" value="90" />
-    <ctl name="RX4 Digital Volume" value="90" />
-    <ctl name="RX5 Digital Volume" value="90" />
+    <ctl name="RX1 Digital Volume" value="84" />
+    <ctl name="RX2 Digital Volume" value="84" />
+    <ctl name="RX3 Digital Volume" value="84" />
+    <ctl name="RX4 Digital Volume" value="84" />
+    <ctl name="RX5 Digital Volume" value="88" />
     <ctl name="ADC1 Volume" value="4" />
     <ctl name="ADC2 Volume" value="4" />
     <ctl name="ADC3 Volume" value="4" />
@@ -392,7 +392,7 @@
 
     <!-- tas2560 smartpa related -->
     <ctl name="TERT_MI2S_TX Channels" value="Two" />
-    <ctl name="DAC Playback Volume" value="15" />
+    <ctl name="DAC Playback Volume" value="30" />
     <ctl name="TAS2560_ALGO_FF_MODULE" value="DISABLE" />
     <ctl name="TAS2560_ALGO_DISABLE" value="FALSE" />
 
