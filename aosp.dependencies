@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository": "moto-SDM660/android_kernel_motorola_sdm660",
+    "repository": "Jleeblanch/kernel_motorola_sdm660",
    "target_path": "kernel/motorola/msm8998",
    "branch":      "lineage-17.0"
   },
