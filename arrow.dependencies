@@ -17,6 +17,6 @@
   },
   {
     "repository": "android_vendor_motorola_chef",
-    "target_path": "vendor/motorola/chef"
+    "target_path": "vendor/motorola/"
   }
 ]
