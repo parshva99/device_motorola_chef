@@ -207,8 +207,6 @@
     <!-- Multimode Voice1 HDMI -->
     <ctl name="HDMI_RX_Voice Mixer VoiceMMode1" value="0" />
     <!-- Multimode Voice1 BTSCO -->
-    <ctl name="SLIM_7_RX_Voice Mixer VoiceMMode1" value="0" />
-    <ctl name="VoiceMMode1_Tx Mixer SLIM_7_TX_MMode1" value="0" />
     <!-- Multimode Voice1 USB headset -->
     <ctl name="AFE_PCM_RX_Voice Mixer VoiceMMode1" value="0" />
     <ctl name="VoiceMMode1_Tx Mixer AFE_PCM_TX_MMode1" value="0" />
