@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_chef.mk
+    $(LOCAL_DIR)/arrow_chef.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_chef-user \
-    aosp_chef-userdebug \
-    aosp_chef-eng
+    arrow_chef-user \
+    arrow_chef-userdebug \
+    arrow_chef-eng
